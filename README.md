@@ -4,7 +4,7 @@
 
 Docker (SWARM) has 4 Images =>
                                Nodejs APP -
-                               (MongoDB or Postgresql ) -
+                               ( MongoDB or Postgresql ) -
                                Redis -
                                Nginx 
 
